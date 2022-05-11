@@ -21,7 +21,7 @@ If you are happy with the liquidity you can choose how many ETH you want to swap
 
 This repo is intended to work in a mainnet fork env.
 
-To run the script use ''' brownie run scripts/deploy.py --network mainnet-fork '''
+To run the script use ```brownie run scripts/deploy.py --network mainnet-fork```
 
 Follow the instructions provided in your terminal prompt.
 
